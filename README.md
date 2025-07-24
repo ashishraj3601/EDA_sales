@@ -55,4 +55,10 @@ The dataset contains transactional-level retail sales data with fields such as:
 - Certain categories like `Electronics` or `Groceries` consistently show higher total spent.
 - Digital payment methods were used for larger transactions on average.
 - Outliers were present but retained to preserve actual transaction behaviors.
-- Some categories had mor
+- Some categories had more discounts applied than others.
+
+---
+
+## 📬 Contact
+
+For queries, reach out at: **ashishraj3601@gmail.com**
